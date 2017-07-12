@@ -1,0 +1,16 @@
+---
+uid: '07600443'
+prefix: นางสาว
+name: 'ชนัฐฎา รูปงาม'
+nickname: มะปราง
+precom: '5.5'
+postcom: ""
+premath: '0'
+postmath: ""
+prephy: '0'
+postphy: ""
+email: mp_cnd@hotmail.com
+quotatype: แอดมิดชัน
+major: วิทยาการคอมพิวเตอร์
+group: 2
+---

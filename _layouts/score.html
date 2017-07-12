@@ -1,0 +1,39 @@
+---
+layout: default
+---
+<div class="container" style="margin-top:20px;">
+  <div>
+    ชื่อ: {{page.name}}
+  </div>
+  <div>
+    รหัสนักศึกษา: {{page.uid}}
+  </div>
+  <div>
+    สาขา: {{page.major}}
+  </div>
+  <div>
+    กลุ่ม: {{page.group}}
+  </div>
+  <hr />
+  <table class="table table-striped" cellspacing="0" cellpadding="0">
+    <thead>
+      <tr>
+        <th>วิชา</th>
+        <th>ก่อนเรียน</th>
+        <th>หลังเรียน</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>คณิตศาสตร์</td><td>{{page.premath}}</td><td>{{page.postmath}}</td></tr>
+      <tr><td>ฟิสิกส์</td><td>{{page.prephy}}</td><td>{{page.postphy}}</td></tr>
+      {% if page.group == 1 or page.group == 3 %}
+      <tr><td>ชีววิทยา</td><td>{{page.prebio}}</td><td>{{page.postbio}}</td></tr>
+      <tr><td>เคมี</td><td>{{page.prechem}}</td><td>{{page.postchem}}</td></tr>
+      {% endif %}
+      {% if page.group == 2 %}
+      <tr><td>คอมพิวเตอร์</td><td>{{page.precom}}</td><td>{{page.postcom}}</td></tr>
+      {% endif %}
+    </tbody>
+  </table>
+  <a href="../average">ดูคะแนนเฉลี่ย</a>
+</div>
