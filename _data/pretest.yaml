@@ -1,0 +1,87 @@
+- name: ทั้งหมด
+  subject:
+    - name: คณิตศาสตร์
+      count: 457
+      full: 15
+      mean: 5.37
+      top: 15
+    - name: ฟิสิกส์
+      count: 457
+      full: 15
+      mean: 2.17
+      top: 14
+    - name: ชีววิทยา
+      count: 340
+      full: 55
+      mean: 11.43
+      top: 35
+    - name: เคมี
+      count: '?'
+      full: 15
+      mean: '?'
+      top: '?'
+    - name: คอมพิวเตอร์
+      count: 108
+      full: '?'
+      mean: 9.15
+      top: 26
+- name: กลุ่ม 1
+  subject:
+    - name: คณิตศาสตร์
+      count: 335
+      full: 15
+      mean: 5.65
+      top: 15
+    - name: ฟิสิกส์
+      full: 15
+      count: 337
+      mean: 2.26
+      top: 14
+    - name: ชีววิทยา
+      count: 326
+      full: 55
+      mean: 11.46
+      top: 35
+    - name: เคมี
+      count: '?'
+      full: 15
+      mean: '?'
+      top: '?'
+- name: กลุ่ม 2
+  subject:
+    - name: คณิตศาสตร์
+      count: 106
+      full: 15
+      mean: 3.92
+      top: 9
+    - name: ฟิสิกส์
+      count: 105
+      full: 15
+      mean: 1.40
+      top: 6.5
+    - name: คอมพิวเตอร์
+      full: '?'
+      count: 108
+      mean: 9.15
+      top: 26
+- name: กลุ่ม 3
+  subject:
+    - name: คณิตศาสตร์
+      count: 16
+      full: 15
+      mean: 9.56
+      top: 13
+    - name: ฟิสิกส์
+      count: 15
+      full: 15
+      mean: 5.53
+      top: 11
+    - name: ชีววิทยา
+      count: 14
+      full: 55
+      mean: 10.64
+      top: 27
+    - name: เคมี
+      full: '?'
+      top: '?'
+      mean: '?'
