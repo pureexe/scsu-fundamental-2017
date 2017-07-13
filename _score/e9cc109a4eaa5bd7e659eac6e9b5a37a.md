@@ -1,0 +1,20 @@
+---
+uid: '07600574'
+prefix: นางสาว
+name: 'ภัทรภร ขวัญดี'
+nickname: จูน
+prebio: '11'
+postbio: ""
+premath: '5'
+postmath: ""
+prephy: '2.5'
+postphy: ""
+prechem: '4'
+postchem: ""
+prechemchoice: '2'
+prechemwriting: '2'
+email: junekwundee10@gmail.com
+quotatype: แอดมิดชัน
+major: จุลชีววิทยา
+group: 1
+---

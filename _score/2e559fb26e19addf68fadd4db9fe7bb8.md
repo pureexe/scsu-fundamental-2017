@@ -1,0 +1,17 @@
+---
+uid: '07600445'
+prefix: นางสาว
+name: 'ชนินาถ เจริญทรัพย์'
+nickname: เน็กซ์
+precom: '4'
+postcom: ""
+premath: '1'
+postmath: ""
+prephy: '0'
+postphy: ""
+email: Next640336@gmail.com
+quotatype: โควตาพิเศษ
+major: วิทยาการคอมพิวเตอร์
+"": ""
+group: 2
+---
