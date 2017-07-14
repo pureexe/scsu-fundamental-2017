@@ -11,8 +11,10 @@ prephy: '2.75'
 postphy: ""
 prechem: '2'
 postchem: ""
-prechemchoice: '2'
-prechemwriting: '0'
+Pre_Chem_Choice: '2'
+Pre_Chem_writing: '0'
+Post_Chem_Choice: ""
+Post_Chem_writing: ""
 email: o_por42@live.com
 quotatype: แอดมิดชัน
 major: สิ่งแวดล้อม

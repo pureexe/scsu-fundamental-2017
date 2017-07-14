@@ -11,8 +11,10 @@ prephy: '0.5'
 postphy: ""
 prechem: '2.5'
 postchem: ""
-prechemchoice: '2'
-prechemwriting: '0.5'
+Pre_Chem_Choice: '2'
+Pre_Chem_writing: '0.5'
+Post_Chem_Choice: ""
+Post_Chem_writing: ""
 email: Nalineemild@hotmail.com
 quotatype: แอดมิดชัน
 major: สิ่งแวดล้อม

@@ -11,8 +11,10 @@ prephy: '0'
 postphy: ""
 prechem: '1'
 postchem: ""
-prechemchoice: '1'
-prechemwriting: '0'
+Pre_Chem_Choice: '1'
+Pre_Chem_writing: '0'
+Post_Chem_Choice: ""
+Post_Chem_writing: ""
 email: chananan5644@gmaol.com
 quotatype: โครงการเพิ่มพิเศษ
 major: คณิตศาสตร์

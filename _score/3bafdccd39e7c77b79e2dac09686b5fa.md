@@ -11,8 +11,10 @@ prephy: '0.25'
 postphy: ""
 prechem: '3'
 postchem: ""
-prechemchoice: '3'
-prechemwriting: '0'
+Pre_Chem_Choice: '3'
+Pre_Chem_writing: '0'
+Post_Chem_Choice: ""
+Post_Chem_writing: ""
 email: S36765@bj.ac.th
 quotatype: โครงการเพิ่มพิเศษ
 major: ชีววิทยา
