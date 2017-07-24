@@ -1,9 +1,9 @@
 - name: ทั้งหมด
   subject:
     - name: คณิตศาสตร์
-      count: 422
+      count: 424
       full: 15
-      mean: 5.24
+      mean: 5.25
       top: 15
     - name: ฟิสิกส์
       count: 442
@@ -11,14 +11,14 @@
       mean: 2.06
       top: 14
     - name: ชีววิทยา
-      count: 326
+      count: 334
       full: 55
-      mean: 11.63
+      mean: 11.70
       top: 35
     - name: เคมี
       count: 346
       full: 15
-      mean: 2.96
+      mean: 2.97
       top: 14
     - name: คอมพิวเตอร์
       count: 108
@@ -28,9 +28,9 @@
 - name: กลุ่ม 1
   subject:
     - name: คณิตศาสตร์
-      count: 320
+      count: 322
       full: 15
-      mean: 5.46
+      mean: 5.47
       top: 15
     - name: ฟิสิกส์
       full: 15
@@ -38,9 +38,9 @@
       mean: 2.11
       top: 14
     - name: ชีววิทยา
-      count: 312
+      count: 319
       full: 55
-      mean: 11.37
+      mean: 11.44
       top: 35
     - name: เคมี
       count: 330
@@ -77,9 +77,9 @@
       mean: 5.53
       top: 11
     - name: ชีววิทยา
-      count: 14
+      count: 15
       full: 55
-      mean: 17.35
+      mean: 17.27
       top: 27
     - name: เคมี
       count: 16
