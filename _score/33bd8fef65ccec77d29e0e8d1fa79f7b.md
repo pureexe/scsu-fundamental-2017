@@ -11,10 +11,10 @@ prephy: '0'
 postphy: ""
 prechem: '1'
 postchem: ""
-Pre_Chem_Choice: '1'
-Pre_Chem_writing: '0'
-Post_Chem_Choice: ""
-Post_Chem_writing: ""
+prechemchoice: '1'
+prechemwriting: '0'
+postchemchoice: ""
+postchemwriting: ""
 email: monthakan274@gmail.com
 quotatype: แอดมิดชัน
 major: สิ่งแวดล้อม

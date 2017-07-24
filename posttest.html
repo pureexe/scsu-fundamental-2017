@@ -1,0 +1,36 @@
+---
+layout: default
+title: คะแนนหลังเรียน
+---
+<div class="container">
+  <h1>คะแนนหลังเรียน</h1>
+  <hr />
+  {% for group in site.data.posttest %}
+  <h2>{{group.name}}</h2>
+  <table class="table table-striped" cellspacing="0" cellpadding="0" style="max-width:100vw;">
+    <thead>
+      <tr>
+        <th>วิชา</th>
+        <th>จำนวน</th>
+        <th>เต็ม</th>
+        <th>เฉลี่ย</th>
+        <th>สูงสุด</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for subject in group.subject %}
+      <tr>
+        <td>{{subject.name}}</td>
+        <td>{{subject.count}}</td>
+        <td>{{subject.full}}</td>
+        <td>{{subject.mean}}</td>
+        <td>{{subject.top}}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  {% endfor %}
+</div>
+<script>
+ga('send','event','overall','view','posttest');
+</script>

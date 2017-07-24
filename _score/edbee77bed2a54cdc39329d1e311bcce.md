@@ -4,17 +4,17 @@ prefix: นางสาว
 name: 'นลินี ไพศาลพัฒนสกุล'
 nickname: มาย
 prebio: '19'
-postbio: ""
+postbio: '18'
 premath: '5'
 postmath: ""
 prephy: '0.5'
 postphy: ""
 prechem: '2.5'
 postchem: ""
-Pre_Chem_Choice: '2'
-Pre_Chem_writing: '0.5'
-Post_Chem_Choice: ""
-Post_Chem_writing: ""
+prechemchoice: '2'
+prechemwriting: '0.5'
+postchemchoice: ""
+postchemwriting: ""
 email: Nalineemild@hotmail.com
 quotatype: แอดมิดชัน
 major: สิ่งแวดล้อม

@@ -4,17 +4,17 @@ prefix: นางสาว
 name: 'อรอนงค์ คงวิจิตร'
 nickname: เปิ้ล
 prebio: '16'
-postbio: ""
+postbio: '22'
 premath: '8'
 postmath: ""
 prephy: '3'
 postphy: ""
 prechem: '4'
 postchem: ""
-Pre_Chem_Choice: '3'
-Pre_Chem_writing: '1'
-Post_Chem_Choice: ""
-Post_Chem_writing: ""
+prechemchoice: '3'
+prechemwriting: '1'
+postchemchoice: ""
+postchemwriting: ""
 email: onaonng1@gmail.com
 quotatype: โครงการเพิ่มพิเศษ
 major: สิ่งแวดล้อม
