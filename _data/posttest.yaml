@@ -11,15 +11,15 @@
       mean: ''
       top: ''
     - name: ชีววิทยา
-      count: 281
+      count: 286
       full: 55
-      mean: 23.15
+      mean: 23.20
       top: 44
     - name: เคมี
-      count: ''
+      count: 294
       full: 15
-      mean: ''
-      top: ''
+      mean: 4.98
+      top: 15
     - name: คอมพิวเตอร์
       count: ''
       full: '?'
@@ -38,15 +38,15 @@
       mean: ''
       top: ''
     - name: ชีววิทยา
-      count: 266
+      count: 271
       full: 55
-      mean: 23.06
+      mean: 23.11
       top: 44
     - name: เคมี
-      count: ''
+      count: 282
       full: 15
-      mean: ''
-      top: ''
+      mean: 4.84
+      top: 15
 - name: กลุ่ม 2
   subject:
     - name: คณิตศาสตร์
@@ -82,7 +82,7 @@
       mean: 24.8
       top: 33
     - name: เคมี
-      count: ''
+      count: 12
       full: 15
-      mean: ''
-      top: ''
+      mean: 8.46
+      top: 12
