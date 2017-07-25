@@ -6,7 +6,7 @@ nickname: ไอซ์
 premath: '4'
 postmath: '4'
 prephy: '2'
-postphy: ""
+postphy: '4.5'
 email: icezip@hotmail.co.th
 quotatype: แอดมิดชัน
 major: วิทยาการคอมพิวเตอร์

@@ -6,7 +6,7 @@ nickname: มะปราง
 premath: '0'
 postmath: '4'
 prephy: '0'
-postphy: ""
+postphy: '1.5'
 email: mp_cnd@hotmail.com
 quotatype: แอดมิดชัน
 major: วิทยาการคอมพิวเตอร์

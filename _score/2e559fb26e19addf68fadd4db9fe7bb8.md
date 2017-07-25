@@ -6,7 +6,7 @@ nickname: เน็กซ์
 premath: '1'
 postmath: '4'
 prephy: '0'
-postphy: ""
+postphy: '0'
 email: Next640336@gmail.com
 quotatype: โควตาพิเศษ
 major: วิทยาการคอมพิวเตอร์

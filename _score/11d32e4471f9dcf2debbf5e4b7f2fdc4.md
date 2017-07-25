@@ -8,7 +8,7 @@ postbio: '24'
 premath: '1'
 postmath: '3'
 prephy: '1.25'
-postphy: ""
+postphy: '1.75'
 prechem: '1'
 postchem: '2'
 prechemchoice: '1'

@@ -6,7 +6,7 @@ nickname: เฟิร์ส
 premath: '2'
 postmath: '7'
 prephy: '3.25'
-postphy: ""
+postphy: '2.75'
 email: aticha.chin@gmail.com
 quotatype: แอดมิดชัน
 major: เทคโนโลยีสารสนเทศ
