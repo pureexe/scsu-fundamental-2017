@@ -4,7 +4,7 @@ prefix: นางสาว
 name: ชนานันท์
 nickname: จูน
 prebio: '13'
-postbio: ""
+postbio: '19'
 premath: '3'
 postmath: ""
 prephy: '0'
