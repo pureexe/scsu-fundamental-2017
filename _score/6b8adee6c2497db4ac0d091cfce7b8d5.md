@@ -6,7 +6,7 @@ nickname: กิ๊ก
 prebio: '16'
 postbio: '23'
 premath: '6'
-postmath: ""
+postmath: '2'
 prephy: '2.25'
 postphy: ""
 prechem: '1'

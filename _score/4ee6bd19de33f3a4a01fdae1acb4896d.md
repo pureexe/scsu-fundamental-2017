@@ -4,7 +4,7 @@ prefix: นางสาว
 name: 'ชนัฐฎา รูปงาม'
 nickname: มะปราง
 premath: '0'
-postmath: ""
+postmath: '4'
 prephy: '0'
 postphy: ""
 email: mp_cnd@hotmail.com

@@ -6,7 +6,7 @@ nickname: ซี
 prebio: '21'
 postbio: '24'
 premath: '1'
-postmath: ""
+postmath: '3'
 prephy: '1.25'
 postphy: ""
 prechem: '1'

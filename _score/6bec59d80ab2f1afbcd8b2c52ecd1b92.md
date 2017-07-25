@@ -6,7 +6,7 @@ nickname: จูน
 prebio: '13'
 postbio: '19'
 premath: '3'
-postmath: ""
+postmath: '6'
 prephy: '0'
 postphy: ""
 prechem: '1'

@@ -6,7 +6,7 @@ nickname: เปิ้ล
 prebio: '16'
 postbio: '22'
 premath: '8'
-postmath: ""
+postmath: '5'
 prephy: '3'
 postphy: ""
 prechem: '4'

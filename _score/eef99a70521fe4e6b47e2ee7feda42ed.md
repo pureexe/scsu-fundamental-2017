@@ -6,7 +6,7 @@ nickname: แจ่ม
 prebio: '20'
 postbio: '16'
 premath: '6'
-postmath: ""
+postmath: '6'
 prephy: '0'
 postphy: ""
 prechem: '0'

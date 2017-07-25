@@ -6,7 +6,7 @@ nickname: โอปอ
 prebio: '21'
 postbio: ""
 premath: '6'
-postmath: ""
+postmath: '8'
 prephy: '2.75'
 postphy: ""
 prechem: '2'

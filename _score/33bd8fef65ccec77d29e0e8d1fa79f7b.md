@@ -6,7 +6,7 @@ nickname: เฟิร์น
 prebio: '15'
 postbio: ""
 premath: '5'
-postmath: ""
+postmath: '7'
 prephy: '0'
 postphy: ""
 prechem: '1'

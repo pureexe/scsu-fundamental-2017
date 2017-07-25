@@ -6,7 +6,7 @@ nickname: มายด์
 prebio: '13'
 postbio: '19'
 premath: '5'
-postmath: ""
+postmath: '6'
 prephy: '3'
 postphy: ""
 prechem: '4'

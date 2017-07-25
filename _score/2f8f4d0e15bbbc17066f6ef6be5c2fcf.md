@@ -6,7 +6,7 @@ nickname: ออม
 prebio: '22'
 postbio: '25'
 premath: '8'
-postmath: ""
+postmath: '7'
 prephy: '3.5'
 postphy: ""
 prechem: '5'

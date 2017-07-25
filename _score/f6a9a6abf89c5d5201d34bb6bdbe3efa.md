@@ -6,7 +6,7 @@ nickname: ออมสิน
 prebio: '20'
 postbio: '22'
 premath: '2'
-postmath: ""
+postmath: '4'
 prephy: '2'
 postphy: ""
 prechem: '3'

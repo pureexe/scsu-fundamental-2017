@@ -4,7 +4,7 @@ prefix: นาย
 name: 'ภัทรพงศ์ ฐิติเบญจพล'
 nickname: ไอซ์
 premath: '4'
-postmath: ""
+postmath: '4'
 prephy: '2'
 postphy: ""
 email: icezip@hotmail.co.th

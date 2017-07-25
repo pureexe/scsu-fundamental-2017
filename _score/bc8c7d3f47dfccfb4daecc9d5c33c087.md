@@ -6,7 +6,7 @@ nickname: เบนซ์
 prebio: '19'
 postbio: '23'
 premath: '2'
-postmath: ""
+postmath: '3'
 prephy: '2.5'
 postphy: ""
 prechem: '2'

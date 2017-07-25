@@ -4,7 +4,7 @@ prefix: นางสาว
 name: 'ชนินาถ เจริญทรัพย์'
 nickname: เน็กซ์
 premath: '1'
-postmath: ""
+postmath: '4'
 prephy: '0'
 postphy: ""
 email: Next640336@gmail.com

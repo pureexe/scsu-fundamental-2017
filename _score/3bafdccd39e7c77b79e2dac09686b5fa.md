@@ -6,7 +6,7 @@ nickname: น้ำฝน
 prebio: '16'
 postbio: '23'
 premath: '7'
-postmath: ""
+postmath: '6'
 prephy: '0.25'
 postphy: ""
 prechem: '3'
