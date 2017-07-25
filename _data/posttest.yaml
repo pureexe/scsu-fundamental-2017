@@ -6,10 +6,10 @@
       mean: 6.79
       top: 15
     - name: ฟิสิกส์
-      count: ''
+      count: 389
       full: 15
-      mean: ''
-      top: ''
+      mean: 3.58
+      top: 15
     - name: ชีววิทยา
       count: 286
       full: 55
@@ -34,9 +34,9 @@
       top: 15
     - name: ฟิสิกส์
       full: 15
-      count: ''
-      mean: ''
-      top: ''
+      count: 285
+      mean: 3.58
+      top: 15
     - name: ชีววิทยา
       count: 271
       full: 55
@@ -55,10 +55,10 @@
       mean: 5.44
       top: 13
     - name: ฟิสิกส์
-      count: ''
+      count: 92
       full: 15
-      mean: ''
-      top: ''
+      mean: 2.65
+      top: 11.5
     - name: คอมพิวเตอร์
       full: '?'
       count: ''
@@ -72,10 +72,10 @@
       mean: 12.25
       top: 15
     - name: ฟิสิกส์
-      count: ''
+      count: 12
       full: 15
-      mean: ''
-      top: ''
+      mean: 10.875
+      top: 14.75
     - name: ชีววิทยา
       count: 15
       full: 55
