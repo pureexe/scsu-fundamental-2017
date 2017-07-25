@@ -10,7 +10,7 @@ postmath: ""
 prephy: '2.5'
 postphy: ""
 prechem: '4'
-postchem: ""
+postchem: '2'
 prechemchoice: '2'
 prechemwriting: '2'
 postchemchoice: ""
