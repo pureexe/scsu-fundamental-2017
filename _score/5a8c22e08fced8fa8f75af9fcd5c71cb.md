@@ -3,6 +3,8 @@ uid: '07600666'
 prefix: นาย
 name: 'อธิชา ชินพราหมณ์'
 nickname: เฟิร์ส
+precom: '7'
+postcom: '11'
 premath: '2'
 postmath: '7'
 prephy: '3.25'

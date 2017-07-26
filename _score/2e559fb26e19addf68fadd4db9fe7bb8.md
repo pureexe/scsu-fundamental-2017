@@ -3,6 +3,8 @@ uid: '07600445'
 prefix: นางสาว
 name: 'ชนินาถ เจริญทรัพย์'
 nickname: เน็กซ์
+precom: '4'
+postcom: '20.5'
 premath: '1'
 postmath: '4'
 prephy: '0'

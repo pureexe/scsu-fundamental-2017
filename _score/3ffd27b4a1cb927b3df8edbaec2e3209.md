@@ -3,6 +3,8 @@ uid: '07600491'
 prefix: นาย
 name: 'ภัทรพงศ์ ฐิติเบญจพล'
 nickname: ไอซ์
+precom: '8'
+postcom: '10'
 premath: '4'
 postmath: '4'
 prephy: '2'

@@ -3,6 +3,8 @@ uid: '07600443'
 prefix: นางสาว
 name: 'ชนัฐฎา รูปงาม'
 nickname: มะปราง
+precom: '5.5'
+postcom: '22.5'
 premath: '0'
 postmath: '4'
 prephy: '0'
