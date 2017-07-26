@@ -21,10 +21,10 @@
       mean: 4.99
       top: 15
     - name: คอมพิวเตอร์
-      count: ''
+      count: 92
       full: '?'
-      mean: ''
-      top: ''
+      mean: 18.80
+      top: 31
 - name: กลุ่ม 1
   subject:
     - name: คณิตศาสตร์
@@ -61,9 +61,9 @@
       top: 11.5
     - name: คอมพิวเตอร์
       full: '?'
-      count: ''
-      mean: ''
-      top: ''
+      count: 92
+      mean: 18.80
+      top: 31
 - name: กลุ่ม 3
   subject:
     - name: คณิตศาสตร์
