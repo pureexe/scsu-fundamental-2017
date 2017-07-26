@@ -10,5 +10,8 @@ postphy: '1.5'
 email: mp_cnd@hotmail.com
 quotatype: แอดมิดชัน
 major: วิทยาการคอมพิวเตอร์
+diffcom: '17'
+diffmath: '4'
+diffphy: '1.5'
 group: 2
 ---

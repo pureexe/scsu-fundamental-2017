@@ -10,5 +10,8 @@ postphy: '4.5'
 email: icezip@hotmail.co.th
 quotatype: แอดมิดชัน
 major: วิทยาการคอมพิวเตอร์
+diffcom: '2'
+diffmath: '0'
+diffphy: '2.5'
 group: 2
 ---

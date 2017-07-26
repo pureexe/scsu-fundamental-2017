@@ -10,5 +10,8 @@ postphy: ""
 email: oard.gst@hotmail.com
 quotatype: โครงการเพิ่มพิเศษ
 major: เทคโนโลยีสารสนเทศ
+diffcom: '-9'
+diffmath: '-5'
+diffphy: '-2.75'
 group: 2
 ---

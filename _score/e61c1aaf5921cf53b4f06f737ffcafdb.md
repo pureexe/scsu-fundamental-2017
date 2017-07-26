@@ -10,5 +10,8 @@ postphy: ""
 email: sun_146_sun@hotmail.com
 quotatype: โควตาพิเศษ
 major: เทคโนโลยีสารสนเทศ
+diffcom: '-5'
+diffmath: '-2'
+diffphy: '0'
 group: 2
 ---

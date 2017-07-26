@@ -10,5 +10,8 @@ postphy: '2.75'
 email: aticha.chin@gmail.com
 quotatype: แอดมิดชัน
 major: เทคโนโลยีสารสนเทศ
+diffcom: '4'
+diffmath: '5'
+diffphy: '-0.5'
 group: 2
 ---

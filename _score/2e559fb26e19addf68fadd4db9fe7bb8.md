@@ -10,5 +10,8 @@ postphy: '0'
 email: Next640336@gmail.com
 quotatype: โควตาพิเศษ
 major: วิทยาการคอมพิวเตอร์
+diffcom: '16.5'
+diffmath: '3'
+diffphy: '0'
 group: 2
 ---
